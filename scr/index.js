@@ -1,6 +1,6 @@
-// const n = 123
+const n = 123
 
-// console.log(('' + n).split('').reverse().join(''))
+console.log(('' + n).split('').reverse().join(''))
 
 function RevrerseInt (n){
   
